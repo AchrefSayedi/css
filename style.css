@@ -1,0 +1,53 @@
+
+  #blue-bordered {
+    border: 5px inset rgba(0, 225, 255, 0.986);   
+    
+}
+      a:visited {
+          color:#000000;
+      }
+      a:active{
+          color: #ff0000
+      }
+  h1{
+    font-family: "Roboto bold";
+    color: #2f3b81;
+    text-align: center;
+    background-color: white;
+  }
+  h4{
+    background-color:rgb(255, 255, 255);
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #2f3b81;
+
+  }
+  h5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #2f3b81;
+  }
+  h6{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #2f3b81;
+    justify-self: center;
+  }
+  {
+  background-color: #333;
+  }
+  body{
+    background-image: url("bg.jpg");
+    }  
+  table{
+    table-layout: auto;
+    width: 500px;
+  }
+#tablee{
+  color: #1100ff;
+}
+#vd{
+  display: block;
+margin: 0 auto
+}
+#kk{
+  text-align: center;
+}
